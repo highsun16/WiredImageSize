@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		939E9DE234A7865C51571704 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FEEDD6B2192CF5D2C31EC455 /* libPods.a */; };
-		D72160D51CA97A3A00F264D1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D72160D41CA97A3A00F264D1 /* main.m */; };
 		D72160D81CA97A3A00F264D1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D72160D71CA97A3A00F264D1 /* AppDelegate.m */; };
 		D72160DE1CA97A3A00F264D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D72160DC1CA97A3A00F264D1 /* Main.storyboard */; };
 		D72160E01CA97A3A00F264D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D72160DF1CA97A3A00F264D1 /* Assets.xcassets */; };
@@ -238,7 +237,6 @@
 				D7F1AA221CA983220089F396 /* CustomCell.m in Sources */,
 				D72160D81CA97A3A00F264D1 /* AppDelegate.m in Sources */,
 				D72160EC1CA97B7D00F264D1 /* AnotherViewController.m in Sources */,
-				D72160D51CA97A3A00F264D1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
